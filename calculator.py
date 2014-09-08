@@ -1,7 +1,7 @@
 """
 Calculator using functions for each operation, then calling the function based on user input.
 Taylor Thompson, 2014
-Version: 1.0 (Stable)
+Version: 1.0 (stable)
 
 The looping function is a while statement that runs again whether done = True/False.
 
